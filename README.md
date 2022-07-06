@@ -11,11 +11,11 @@
  - python
 
 ## 💻 Working environment
+[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)<br>
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)<br>
 [![Fedora 36](https://img.shields.io/badge/Fedora%2036-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/en/workstation/download/)<br>
-[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 
 ## 📱 Devices in use
 
