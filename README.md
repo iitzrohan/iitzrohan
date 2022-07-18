@@ -16,6 +16,7 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)<br>
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)<br>
 [![Fedora 36](https://img.shields.io/badge/Fedora%2036-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/en/workstation/download/)<br>
+[![Arch Linux](https://img.shields.io/badge/Arch%20linux-00adef?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/download/)<br>
 
 ## 📱 Devices in use
 
