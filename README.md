@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a blog app**
+ 🔭 I’m currently working on **an e-commerce app**
  
- 🌱 I’m currently learning **Rust, Nextjs**
+ 🌱 I’m currently learning **Rust, Java, Springboot**
 
-💬 Ask me about **C++, Node.js, React... or anything [here](https://github.com/iitzrohan/iitzrohan/issues)**
+💬 Ask me about **C++, Rust, Java, Springboot... or anything [here](https://github.com/iitzrohan/iitzrohan/issues)**
 
  </div>
  
